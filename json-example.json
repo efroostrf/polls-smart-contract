@@ -1,0 +1,18 @@
+{
+  "name": "Poll name here",
+  "descriptions": "Poll descriptions here",
+  "author": "Name of author here",
+  "options": [
+    {
+      "name": "Option 1 name",
+      "description": "You can add other data for your options and poll",
+      "somethingElse": "really"
+    },
+    {
+      "name": "Option 2 name"
+    },
+    {
+      "name": "Option 3 name"
+    }
+  ]
+}

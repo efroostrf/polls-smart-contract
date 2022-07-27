@@ -1,0 +1,34 @@
+{
+  "name": "polls-smart-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efroostrf/polls-smart-contract.git"
+  },
+  "keywords": [
+    "polls",
+    "solidity"
+  ],
+  "author": "https://github.com/efroostrf/",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/efroostrf/polls-smart-contract/issues"
+  },
+  "homepage": "https://github.com/efroostrf/polls-smart-contract#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "@openzeppelin/contracts-upgradeable": "^4.7.1",
+    "@openzeppelin/truffle-upgrades": "^1.15.0",
+    "hardhat": "^2.10.1"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+    "@openzeppelin/hardhat-upgrades": "^1.19.0",
+    "chai": "^4.3.6"
+  }
+}
